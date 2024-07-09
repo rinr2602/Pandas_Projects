@@ -16,6 +16,6 @@ This project involves cleaning and analyzing a COVID-19 dataset using Python Pan
 
 This project involves cleaning and analyzing a police dataset using Python Pandas. The steps include removing columns with all null values, analyzing violations by gender, examining search rates during stops by gender, calculating mean stop duration, and comparing age distributions for different violations.
 
-#### 5. Data Cleaning and Analysis of Weather Dataset using Pandas
+### 5. Data Cleaning and Analysis of Weather Dataset using Pandas
 
 This project involves cleaning and analyzing a weather dataset using Python Pandas. The steps include data exploration, renaming columns, calculating statistical metrics, filtering records based on specific conditions, and performing group-based aggregations.
